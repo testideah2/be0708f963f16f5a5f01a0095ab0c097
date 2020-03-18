@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "harta.mebel.shop"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>Садовая мебель HARTA</name>
+    <name>HARTA</name>
 
     <description>
-        Мы предлагаем красивую, функциональную и практичную садовую мебель из искусственного ротанга, алюминия, пластика, натуральной древесины и других материалов, устойчивых к влиянию климатических факторов и отличающийся повышенными эксплуатационными характеристиками. Так же у нас представлены товары для сада и дома:  хозблоки, чаши для костра, лазерную подсветку, бассейны, батуты, гаражи, теплицы, кулеры, тренажеры и многое другие
+        В нашем приложении HARTA вы найдете красивую, функциональную и практичную садовую мебель из искусственного ротанга, алюминия, пластика, натуральной древесины и других материалов, устойчивых к влиянию климатических факторов и отличающийся повышенными эксплуатационными характеристиками. Так же у нас представлены товары для сада и дома:  хозблоки, чаши для костра, лазерную подсветку, бассейны, батуты, гаражи, теплицы, кулеры, тренажеры и многое другие
     </description>
 
     <author>Tadapp</author>
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#3CB868" />
+    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
